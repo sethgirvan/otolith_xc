@@ -1849,6 +1849,7 @@
 					<Item Name="niFPGA Threshold Crossing Logic.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/Analysis/utilities/niFPGA Threshold Crossing Logic.vi"/>
 					<Item Name="niFPGA Threshold Crossing State.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/Analysis/utilities/niFPGA Threshold Crossing State.ctl"/>
 				</Item>
+				<Item Name="Latch.vi" Type="VI" URL="../../../../../../Program Files (x86)/National Instruments/LabVIEW 2015/examples/R Series/FPGA Fundamentals/FPGA Math and Analysis/Cross-correlation Using FFT (1 Channel, N Samples)/Support VIs/Latch.vi"/>
 			</Item>
 			<Item Name="Build Specifications" Type="Build">
 				<Item Name="Dookfoods" Type="{F4C5E96F-7410-48A5-BB87-3559BC9B167F}">
