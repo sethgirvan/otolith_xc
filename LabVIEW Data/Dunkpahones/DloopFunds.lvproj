@@ -17,7 +17,7 @@
 			<Property Name="Mode" Type="Int">0</Property>
 			<Property Name="NI.LV.FPGA.CompileConfigString" Type="Str">USB-7855R OEM/Clk40/falsefalseFPGA_EXECUTION_MODEFPGA_TARGETFPGA_TARGET_CLASSUSB_7855R_OEMFPGA_TARGET_FAMILYKINTEX7TARGET_TYPEFPGA</Property>
 			<Property Name="NI.LV.FPGA.Version" Type="Int">6</Property>
-			<Property Name="niFpga_TopLevelVIID" Type="Path">/C/Users/Brian/otolith/DunkFlips.vi</Property>
+			<Property Name="niFpga_TopLevelVIID" Type="Path">/C/Users/Brian/otolith/LabVIEW Data/Dunkpahones/SendRaw.vi</Property>
 			<Property Name="Resource Name" Type="Str">RIO0</Property>
 			<Property Name="rseries.aio./Connector0/AI0" Type="Str">0</Property>
 			<Property Name="rseries.aio./Connector0/AI1" Type="Str">0</Property>
